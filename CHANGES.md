@@ -1,5 +1,6 @@
 HISTORY
 --------
+This is the workflow of how the code changes overtime
 
 ## 1.4 (2020-8-8)
 - Add the `--keep-prints` option for keeping print nodes, default is False. (By @thektulu)
